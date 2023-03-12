@@ -1,3 +1,3 @@
 # dotfiles 
 configuration files for bash/zsh on macOS
-tmux.conf for tmux https://github.com/tmux/tmux/wiki
+tmux.conf tmux, a terminal multiplexer https://github.com/tmux/tmux/wiki
